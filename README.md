@@ -1,4 +1,4 @@
-# RS485
+## RS485
   * Baud rate = 1Mbit/s
   * Connect both DE and RE to pin 8 on all master and slave devices.  
 
