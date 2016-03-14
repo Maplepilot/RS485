@@ -1,6 +1,7 @@
 ## RS485
   * Baud rate = 1Mbit/s
   * Connect both DE and RE to pin 8 on all master and slave devices.  
+  * Buffer size tested: 10.
 
 
 ![](https://github.com/piliwilliam0306/RS485/blob/master/IMAG0085.jpg)
