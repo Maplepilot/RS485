@@ -9,6 +9,9 @@
 ## Sequence
 ![](https://github.com/piliwilliam0306/RS485/blob/master/IMAG0086.jpg)
 
+## Setting slave device address
+  * #define slave (device number 1-8).
+
 ## Test procedure
   * run 485_test.cpp to publish command.
   * use rosbag to record all topics.
