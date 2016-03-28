@@ -9,6 +9,11 @@
 ## Sequence
 ![](https://github.com/piliwilliam0306/RS485/blob/master/IMAG0086.jpg)
 
+## Test procedure
+  * run 485.cpp to publish command.
+  * use rosbag to record all topics.
+
 ## Reference
   * http://www.microcontroller-project.com/rs485-communication-between-arduino-mega-and-arduino-pro-mini.html  
+
 
